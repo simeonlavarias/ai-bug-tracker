@@ -160,8 +160,3 @@ Mirrors how real production applications are structured. The frontend only handl
 - Deploy frontend to Netlify or Vercel
 
 ---
-
-## Author
-
-Built by [Your Name]
-Portfolio project for Junior Software Engineer — AI Quality & Testing roles
